@@ -230,4 +230,4 @@ Emby is available as a full free version, providing users with all features and 
 Ready to enhance your multimedia experience? Download Emby today and enjoy all your media like never before!
 
 ---
-**Last updated:** 2026-09-22 21:56:04 UTC
+**Last updated:** 2026-09-23 00:16:12 UTC
